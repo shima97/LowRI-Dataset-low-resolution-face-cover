@@ -1,2 +1,2 @@
 # LowRI-Dataset-low-resolution-face-cover
-a novel low resolution challenging dataset for face cover detection models To get dataset use this link: https://drive.google.com/file/d/1XKVrQK45hYZiNHgCFUmQsMjxPlWUtlf2/view?usp=share_link  Dataset details are explained in LRI dataset paper, please cite our paper:
+a novel low resolution challenging dataset for face cover detection models To get dataset use this link: https://drive.google.com/file/d/1XKVrQK45hYZiNHgCFUmQsMjxPlWUtlf2/view?usp=share_link  Dataset details are explained in "LowRI: A new valuable, publicly available dataset with distinct features for face cover detection on Low-Resolution Images" paper, please cite our paper:
